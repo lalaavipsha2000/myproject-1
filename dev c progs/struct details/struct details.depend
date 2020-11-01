@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1602572095 source:c:\users\91700\onedrive\desktop\dev c programs\code struct complex.c
+	<stdio.h>
+	<conio.h>
+
+1584205420 source:c:\users\91700\onedrive\desktop\dev c programs\struct details\main.cpp
+	<iostream>
+
